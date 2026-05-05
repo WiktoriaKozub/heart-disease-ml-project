@@ -61,7 +61,7 @@ Najlepszy model sieci neuronowej osiągnął najwyższą czułość, co czyni go
 ---
 
 ## Struktura projektu
-- `notebook.ipynb` – pełna analiza danych i modele
+- `projekt_choroby_serca.ipynb` – pełna analiza danych i modele
 - `README.md` – opis projektu
 
 ---
